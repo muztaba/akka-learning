@@ -1,0 +1,18 @@
+{
+  "data":[
+    {
+      "datetime":"””",
+      "message":"””",
+      "highlightText":[
+        {
+          "“fromPosition":12,
+          "toPosition":16
+        }
+      ]
+    }
+  ],
+  "datetimeFrom":"",
+  "datetimeUntil":"",
+  "phrase":""
+}
+
